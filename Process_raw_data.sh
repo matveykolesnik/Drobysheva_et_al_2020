@@ -45,5 +45,5 @@ done
 #Count mapped reads for each sample
 for f in alignments/*bam; 
 do
-	printf "%s\t%s\n" $f `samtools view -F 4 -c $f` >> reads_per_lib.tsv; 
+	printf "%s\t%s\n" `basename $f` `samtools view -F 4 -c $f` >> reads_per_lib.tsv; 
 done
