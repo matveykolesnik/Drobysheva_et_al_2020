@@ -38,7 +38,7 @@ bowtie2-build $RefSeqs $RefSeqs_index
 for f in Data/Trimmed/*fastq.gz; 
 do 
 	echo $f; 
-	bowtie2 -x $RefSeqs_index -U $f -q -p 4 | samtools view -S -b -u - | samtools sort - -o alignments/`basename $f .fastq.gz`.sorted; 
+	bowtie2 -x $RefSeqs_index -U $f -q -p 4 | samtools view -S -b -u - | samtools sort - -o alignments/`basename $f .fastq.gz`.sorted.bam; 
 done
 
 #Count mapped reads for each sample
