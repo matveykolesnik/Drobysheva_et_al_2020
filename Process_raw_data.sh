@@ -3,7 +3,7 @@
 #Shell script that performs quality checking of the reads before and after trimming, maps the reads onto reference genome generating indexed BAM files
 #Requires: fastqc, trimmomatic, bowtie2, samtools
 
-WD="/media/matvey/57a42bb6-576e-435f-a711-e6cb2026e82d/DroAr_data/"
+WD="~/data/DroAr_data/"
 echo $WD
 cd $WD
 
