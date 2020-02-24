@@ -1,7 +1,7 @@
 library(data.table)
 library(dplyr)
 
-setwd("/media/matvey/57a42bb6-576e-435f-a711-e6cb2026e82d/DroAr_data/")
+setwd("~/data/DroAr_data/")
 #file with RPKM normalized read counts table
 read_counts_normalized <- "Results/read_counts_RPKM_normalized.tsv"
 
