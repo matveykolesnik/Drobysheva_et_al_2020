@@ -1,10 +1,5 @@
 library(data.table)
 library(dplyr)
-library(reshape2)
-library(ggplot2)
-library(grid)
-library(rtracklayer)
-library(Gviz)
 
 setwd("/media/matvey/57a42bb6-576e-435f-a711-e6cb2026e82d/DroAr_data/")
 #file with RPKM normalized read counts table
