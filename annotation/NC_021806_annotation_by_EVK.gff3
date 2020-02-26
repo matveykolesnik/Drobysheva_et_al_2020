@@ -1,0 +1,146 @@
+##gff-version 3
+##sequence-region NC_021806.1 1 100418
+#!Date 2019-01-27
+#!Type DNA
+#!Source-version EMBOSS 6.6.0.0
+NC_021806.1	EMBL	gene	7165	7488	.	+	.	ID=g011;product=putative protein
+NC_021806.1	EMBL	gene	17489	17926	.	+	.	ID=g031;product=putative protein
+NC_021806.1	EMBL	gene	22510	23379	.	+	.	ID=g038;product=putative protein
+NC_021806.1	EMBL	gene	28554	28931	.	+	.	ID=g044;product=putative protein
+NC_021806.1	EMBL	gene	35504	36562	.	+	.	ID=g055;product=putative protein
+NC_021806.1	EMBL	gene	80646	81206	.	-	.	ID=g087;product=putative protein
+NC_021806.1	EMBL	gene	8869	9177	.	+	.	ID=g016;product=putative protein
+NC_021806.1	EMBL	gene	22025	22510	.	+	.	ID=g037;product=gamma-glutamylcyclotransferase
+NC_021806.1	EMBL	gene	73754	73900	.	-	.	ID=g082;product=putative protein
+NC_021806.1	EMBL	gene	97152	97343	.	-	.	ID=g109;product=putative protein
+NC_021806.1	EMBL	gene	76800	80627	.	-	.	ID=g086;product=putative protein
+NC_021806.1	EMBL	gene	96963	97118	.	-	.	ID=g108;product=putative protein
+NC_021806.1	EMBL	gene	36569	37780	.	+	.	ID=g056;product=SNF2-familyhelicase
+NC_021806.1	EMBL	gene	94971	96443	.	-	.	ID=g105;product=Chaperoni nGroEL (HSP60family)
+NC_021806.1	EMBL	gene	6905	7168	.	+	.	ID=g010;product=putative protein
+NC_021806.1	EMBL	gene	83065	83949	.	-	.	ID=g090;product=putative structural protein('gene75')
+NC_021806.1	EMBL	gene	98914	99417	.	+	.	ID=g113;product=putative protein
+NC_021806.1	EMBL	gene	29194	30636	.	+	.	ID=g046;product=PD-(D/E)XKfamilynuclease
+NC_021806.1	EMBL	gene	89246	91666	.	-	.	ID=g094;product=Terminase
+NC_021806.1	EMBL	gene	3	266	.	+	.	ID=g001;product=putative protein
+NC_021806.1	EMBL	gene	28342	28527	.	+	.	ID=g043;product=putative protein
+NC_021806.1	EMBL	gene	94568	94969	.	-	.	ID=g104;product=putative protein
+NC_021806.1	EMBL	gene	8215	8571	.	+	.	ID=g014;product=putative protein
+NC_021806.1	EMBL	gene	57200	58939	.	-	.	ID=g068;product=putative protein
+NC_021806.1	EMBL	gene	62219	66241	.	-	.	ID=g071;product=Tails tabilization protein (P22gp10-like) (gene51_crAssphage)
+NC_021806.1	EMBL	gene	15865	16707	.	+	.	ID=g029;pruduct=DnaB replicative DNA helicase
+NC_021806.1	EMBL	gene	71338	72069	.	-	.	ID=g080;product=putative protein
+NC_021806.1	EMBL	gene	67461	68138	.	-	.	ID=g074;product=IHF subunit (gene54_crAssphage)
+NC_021806.1	EMBL	gene	33495	33650	.	+	.	ID=g053;product=putative protein
+NC_021806.1	EMBL	gene	96678	96911	.	-	.	ID=g107;product=putative protein
+NC_021806.1	EMBL	gene	69230	69808	.	-	.	ID=g076;product=putative protein
+NC_021806.1	EMBL	gene	16861	17484	.	+	.	ID=g030;product=putative protein
+NC_021806.1	EMBL	gene	68229	69152	.	-	.	ID=g075;product=Calcineurin-like phosphoesterase/metallophosphatase
+NC_021806.1	EMBL	gene	38534	38821	.	+	.	ID=g059;product=putative protein
+NC_021806.1	EMBL	gene	20253	20921	.	+	.	ID=g035;product=Uncharacterized protein 45b
+NC_021806.1	EMBL	gene	26122	27669	.	+	.	ID=g041;product=putative protein
+NC_021806.1	EMBL	gene	20971	22044	.	+	.	ID=g036;product=DnaG family primase
+NC_021806.1	EMBL	gene	4912	5625	.	+	.	ID=g007;product=putative protein
+NC_021806.1	EMBL	gene	92263	92652	.	-	.	ID=g096;product=putative protein
+NC_021806.1	EMBL	gene	94131	94451	.	-	.	ID=g102;product=putative protein
+NC_021806.1	EMBL	gene	283	1278	.	+	.	ID=g002;product=OmpA family protein
+NC_021806.1	EMBL	gene	39219	39773	.	+	.	ID=g061;product=putative protein
+NC_021806.1	EMBL	gene	66241	66972	.	-	.	ID=g072;product=Tail tubular protein (P22gp4-like) (gene52_crAssphage)
+NC_021806.1	EMBL	gene	40072	40581	.	+	.	ID=g063;product=metallophosphatase
+NC_021806.1	EMBL	gene	84012	85535	.	-	.	ID=g091;product=major capsid protein
+NC_021806.1	EMBL	gene	82340	83065	.	-	.	ID=g089;product=putative structural protein (gene74_crAssphage)
+NC_021806.1	EMBL	gene	23376	24194	.	+	.	ID=g039;product=putative protein
+NC_021806.1	EMBL	gene	1984	2175	.	+	.	ID=g003;product=putative protein
+NC_021806.1	EMBL	gene	69795	70358	.	-	.	ID=g077;product=putative protein
+NC_021806.1	EMBL	gene	75207	76778	.	-	.	ID=g085;product=putative protein
+NC_021806.1	EMBL	gene	73888	74934	.	-	.	ID=g083;product=putative protein
+NC_021806.1	EMBL	gene	58983	60245	.	-	.	ID=g069;product=Uncharacterized protein (gene49_crAssphage)
+NC_021806.1	EMBL	gene	92636	92866	.	-	.	ID=g097;product=putative protein
+NC_021806.1	EMBL	gene	30650	31249	.	+	.	ID=g047;product=Uncharacterized protein 53b
+NC_021806.1	EMBL	gene	96421	96678	.	-	.	ID=g106;product=putative protein
+NC_021806.1	EMBL	gene	14323	14838	.	+	.	ID=g026;product=putative protein
+NC_021806.1	EMBL	gene	40997	45262	.	-	.	ID=g065;product=Putative RNAP subunit (gene46C_crAssphage)
+NC_021806.1	EMBL	gene	51807	57200	.	-	.	ID=g067;product=Putative RNAP subunit (gene47_crAssphage)
+NC_021806.1	EMBL	gene	31246	31647	.	+	.	ID=g048;product=NTP-PPase nucleoside triphosphate pyrophosphohydrolase
+NC_021806.1	EMBL	gene	92859	93239	.	-	.	ID=g098;product=putative protein
+NC_021806.1	EMBL	gene	70997	71338	.	-	.	ID=g079;product=putative protein
+NC_021806.1	EMBL	gene	8582	8848	.	+	.	ID=g015;product=putative protein
+NC_021806.1	EMBL	gene	37777	38106	.	+	.	ID=g057;product=putative protein
+NC_021806.1	EMBL	gene	7672	7887	.	+	.	ID=g013;product=putative protein
+NC_021806.1	EMBL	gene	85567	86691	.	-	.	ID=g092;product=putative structural protein ('gene77')
+NC_021806.1	EMBL	gene	99527	99739	.	+	.	ID=g114;product=putative protein
+NC_021806.1	EMBL	gene	91676	92263	.	-	.	ID=g095;product=Uncharacterized protein (gene86)
+NC_021806.1	EMBL	gene	94438	94578	.	-	.	ID=g103;product=putative protein
+NC_021806.1	EMBL	gene	14825	15052	.	+	.	ID=g027;product=putative protein
+NC_021806.1	EMBL	gene	15121	15735	.	+	.	ID=g028;product=putative protein
+NC_021806.1	EMBL	gene	45265	51807	.	-	.	ID=g066;product=b-b' RNAP (gene46N_crAssphage)
+NC_021806.1	EMBL	gene	19023	19526	.	+	.	ID=g033;product=putative protein
+NC_021806.1	EMBL	gene	24201	26117	.	+	.	ID=g040;product=glucosamine-fructose-6-phosphateaminotransferase
+NC_021806.1	EMBL	gene	74936	75196	.	-	.	ID=g084;product=putative protein
+NC_021806.1	EMBL	gene	81296	82312	.	-	.	ID=g088;product=putative structural protein (gene73_crAssphage)
+NC_021806.1	EMBL	gene	97531	97752	.	-	.	ID=g110;product=putative protein
+NC_021806.1	EMBL	gene	33695	35422	.	+	.	ID=g054;product=ribonucleoside reductase alpha chain
+NC_021806.1	EMBL	gene	33023	33451	.	+	.	ID=g052;product=putative protein
+NC_021806.1	EMBL	gene	38811	39218	.	+	.	ID=g060;product=putative protein
+NC_021806.1	EMBL	gene	13222	14061	.	+	.	ID=g025;product=putative protein
+NC_021806.1	EMBL	gene	4602	4901	.	+	.	ID=g006;product=putative protein
+NC_021806.1	EMBL	gene	9179	9568	.	+	.	ID=g017;product=putative protein
+NC_021806.1	EMBL	gene	28935	29213	.	+	.	ID=g045;product=putative protein
+NC_021806.1	EMBL	gene	31843	32805	.	+	.	ID=g050;product=ribonucleoside reductase beta chain
+NC_021806.1	EMBL	gene	98455	98706	.	+	.	ID=g112;product=putative protein
+NC_021806.1	EMBL	gene	2194	2904	.	+	.	ID=g004;product=putative protein
+NC_021806.1	EMBL	gene	60360	62141	.	-	.	ID=g070;product=putative protein
+NC_021806.1	EMBL	gene	93229	93471	.	-	.	ID=g099;product=putative protein
+NC_021806.1	EMBL	gene	27660	28370	.	+	.	ID=g042;product=uracyl-DNA glycosylase
+NC_021806.1	EMBL	gene	9636	12081	.	+	.	ID=g018;product=DNA polymerase family B
+NC_021806.1	EMBL	gene	38096	38530	.	+	.	ID=g058;product=putative protein
+NC_021806.1	EMBL	gene	70355	70984	.	-	.	ID=g078;product=PAS fold protein
+NC_021806.1	EMBL	gene	93920	94129	.	-	.	ID=g101;product=putative protein
+NC_021806.1	EMBL	gene	12982	13176	.	+	.	ID=g024;product=putative protein
+NC_021806.1	EMBL	gene	6141	6908	.	+	.	ID=g009;product=putative protein
+NC_021806.1	EMBL	gene	5918	6154	.	+	.	ID=g008;product=putative protein
+NC_021806.1	EMBL	gene	3590	3910	.	+	.	ID=g005;product=putative protein
+NC_021806.1	EMBL	gene	86799	89171	.	-	.	ID=g093;product=putative protein
+NC_021806.1	EMBL	gene	19565	20239	.	+	.	ID=g034;product=AAA domain ATPase
+NC_021806.1	EMBL	gene	12085	12237	.	+	.	ID=g021;product=putative protein
+NC_021806.1	EMBL	gene	12221	12823	.	+	.	ID=g022;product=putative replisome organizer protein
+NC_021806.1	EMBL	gene	17940	19016	.	+	.	ID=g032;product=flavin-dependent thymidylate synthase
+NC_021806.1	EMBL	gene	31631	31840	.	+	.	ID=g049;product=putative protein
+NC_021806.1	EMBL	gene	40578	40937	.	+	.	ID=g064;product=putative protein
+NC_021806.1	EMBL	gene	12827	12985	.	+	.	ID=g023;product=putative protein
+NC_021806.1	EMBL	gene	39791	40072	.	+	.	ID=g062;product=putative protein
+NC_021806.1	EMBL	gene	32817	33023	.	+	.	ID=g051;product=putative protein
+NC_021806.1	EMBL	gene	93649	93948	.	-	.	ID=g100;product=putative protein
+NC_021806.1	EMBL	gene	98111	98317	.	+	.	ID=g111;product=putative protein
+NC_021806.1	EMBL	gene	66965	67471	.	-	.	ID=g073;product=IHF subunit (gene53_crAssphage)
+NC_021806.1	EMBL	gene	72084	73757	.	-	.	ID=g081;product=putative protein
+NC_021806.1	EMBL	gene	7494	7670	.	+	.	ID=g012;product=putative protein
+NC_021806.1	ME	gene	1279	1983	.	.	.	ID=igr1
+NC_021806.1	ME	gene	2905	3589	.	.	.	ID=igr2
+NC_021806.1	ME	gene	3911	4601	.	.	.	ID=igr3
+NC_021806.1	ME	gene	5626	5917	.	.	.	ID=igr4
+NC_021806.1	ME	gene	7888	8214	.	.	.	ID=igr5
+NC_021806.1	ME	gene	9569	9635	.	.	.	ID=igr6
+NC_021806.1	ME	gene	13177	13221	.	.	.	ID=igr7
+NC_021806.1	ME	gene	14062	14322	.	.	.	ID=igr8
+NC_021806.1	ME	gene	15053	15120	.	.	.	ID=igr9
+NC_021806.1	ME	gene	15736	15864	.	.	.	ID=igr10
+NC_021806.1	ME	gene	16708	16860	.	.	.	ID=igr11
+NC_021806.1	ME	gene	35423	35503	.	.	.	ID=igr12
+NC_021806.1	ME	gene	40938	40996	.	.	.	ID=igr13
+NC_021806.1	ME	gene	60246	60359	.	.	.	ID=igr14
+NC_021806.1	ME	gene	62142	62218	.	.	.	ID=igr15
+NC_021806.1	ME	gene	68139	68228	.	.	.	ID=igr16
+NC_021806.1	ME	gene	69153	69229	.	.	.	ID=igr17
+NC_021806.1	ME	gene	81207	81295	.	.	.	ID=igr18
+NC_021806.1	ME	gene	83950	84011	.	.	.	ID=igr19
+NC_021806.1	ME	gene	86692	86798	.	.	.	ID=igr20
+NC_021806.1	ME	gene	89172	89245	.	.	.	ID=igr21
+NC_021806.1	ME	gene	93472	93648	.	.	.	ID=igr22
+NC_021806.1	ME	gene	96912	96962	.	.	.	ID=igr23
+NC_021806.1	ME	gene	97344	97530	.	.	.	ID=igr24
+NC_021806.1	ME	gene	97753	98110	.	.	.	ID=igr25
+NC_021806.1	ME	gene	98318	98454	.	.	.	ID=igr26
+NC_021806.1	ME	gene	98707	98913	.	.	.	ID=igr27
+NC_021806.1	ME	gene	99418	99526	.	.	.	ID=igr28
+NC_021806.1	ME	gene	99740	100418	.	.	.	ID=igr29
