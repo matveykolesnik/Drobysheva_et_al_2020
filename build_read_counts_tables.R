@@ -7,7 +7,7 @@ library(openxlsx)
 
 #This script counts RNA-Seq reads mapped to the features of phi14:2 genome and performs RPKM normalization
 
-setwd("~/data/DroAr_data/")
+setwd("~/data/Drobysheva_et_al_2020/")
 
 #directory with BAM files
 aln_path <- "alignments/"

@@ -3,7 +3,7 @@ library(dplyr)
 library(reshape2)
 library(ggplot2)
 
-setwd("~/data/DroAr_data/")
+setwd("~/data/Drobysheva_et_al_2020/")
 #File with normalized transcript abundances and time classes
 classified_ORFs <- "Results/gene_classes_and_RPKMs.tsv"
 #Annotation file
